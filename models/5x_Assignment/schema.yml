@@ -1,0 +1,9 @@
+version : 2
+
+sources:
+    - name: covid
+      description: "First covid model"
+      database: "INTERVIEW_DB"
+      schema: "PLAYGROUND_VARINDERJIT_KAUR"
+      tables:
+        - name : COVID_INDONESIA_INFO
